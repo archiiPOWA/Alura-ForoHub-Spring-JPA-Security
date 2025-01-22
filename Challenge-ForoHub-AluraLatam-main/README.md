@@ -52,7 +52,7 @@ El proyecto está diseñado con una arquitectura por capas:
 ### **Pasos**
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/castleortiz1/Challenge-ForoHub-AluraLatam
+   git clone https://github.com/archiiPOWA/Alura-ForoHub-Spring-JPA-Security
    cd forohub
    ```
 2. Configurar la base de datos:
